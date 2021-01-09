@@ -334,8 +334,8 @@ st.write("""
 
     Developed by: Carlos Pérez Ricardo
 
-    Have you ever wondered how many hours, days or even months you have spent watching Netlflix? Which TV show have you watched most episodes of? How does your Viewing Activity changed over the month and years?  
-    This website will answer these questions for you. In this project you can enter a csv file with your viewing activity from Netflix and obtain an analysis of your viewing activity. 
+    Have you ever wondered how many hours, days or even months you have spent watching Netflix? Which TV show have you watched most episodes of? How does your Viewing Activity change over the month and years?  
+    This website will answer these questions for you. In this project, you can enter a .csv file with your viewing activity from Netflix and obtain an analysis of your viewing activity. 
 
     Follow the following steps to **download the viewing activity** (https://help.netflix.com/es-es/node/101917):
     * You can check which series and movies have been viewed in the different profiles of your account.
@@ -352,7 +352,7 @@ st.write("""
 
     **After downloading**
 
-    Once you have downloaded the file from Netflix, enter the csv file in section "Drag and drop file here". The csv file is just a simple file with two columns named "Title" and "Date". And wait for the program to load all the information.
+    Once you have downloaded the file from Netflix, enter the .csv file in section "Drag and drop file here". The .csv file is just a simple file with two columns named "Title" and "Date". And wait for the program to load all the information.
 
     Enjoy it! 
 
