@@ -280,7 +280,7 @@ def plot_monthly_distribution (netflix_hist, first_day, last_day):
     fig, ax = plt.subplots(figsize=(12,8))
     
     for year in years:
-        ax.plot( month_years_pt.index, month_years_pt[year], label= str(year))
+        ax.plot( month_years_pt.index, month_years_pt[year], label= str(year), linewidth = 3)
     
     # Stacked
     #for year in years:
